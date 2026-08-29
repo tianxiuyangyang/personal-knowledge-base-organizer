@@ -1,0 +1,7 @@
+interface:
+  display_name: "个人知识库整理skill"
+  short_description: "一键搭建知境风格的可编辑知识网络网站"
+  brand_color: "#607158"
+  default_prompt: "Use $personal-knowledge-base-organizer to build a 知境-style personal knowledge-base website in my workspace."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local test outputs
+技能验证输出/
+测试用户资料.json
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
